@@ -59,14 +59,14 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Venocyber_Tech.sendMessage(Qr_Code_By_Venocyber_Tech.user.id, { text: '' + b64data });
 	
 				   let VENOCYBER_MD_TEXT = `
-*_Qr Code By Venocyber Tech_*
+*_Qr Code By james Tech_*
 *_Made With 🤍_*
 ______________________________________
-*_Pair Code Connected by Venocyber Tech_*
+*_Pair Code Connected by james Tech_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
+║ *『 WOW YOU CHOOSEN james-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
